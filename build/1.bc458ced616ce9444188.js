@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{49:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r=function(e){if(e&&e.__esModule)return e;var n={};if(null!=e)for(var t in e)Object.prototype.hasOwnProperty.call(e,t)&&(n[t]=e[t]);return n.default=e,n}(t(1));n.default=function(){return r.createElement("div",null,"Page 2")}}}]);
+//# sourceMappingURL=1.bc458ced616ce9444188.js.map

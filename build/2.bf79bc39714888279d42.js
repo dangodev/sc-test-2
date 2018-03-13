@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{50:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var r=function(e){if(e&&e.__esModule)return e;var n={};if(null!=e)for(var t in e)Object.prototype.hasOwnProperty.call(e,t)&&(n[t]=e[t]);return n.default=e,n}(t(1));n.default=function(){return r.createElement("div",null,"Home page")}}}]);
+//# sourceMappingURL=2.bf79bc39714888279d42.js.map

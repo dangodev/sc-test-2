@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./pages/Home.js"],"names":["React","__webpack_require__","n","default","createElement"],"mappings":"0IAAA,IAAYA,0JAAZC,EAAA,IAAAC,EAAAC,QAEa,kBAAMH,EAAAI,cAAA","file":"2.bf79bc39714888279d42.js","sourcesContent":["import * as React from \"react\";\n\nconst Home = () => <div>Home page</div>;\n\nexport default Home;\n"],"sourceRoot":""}

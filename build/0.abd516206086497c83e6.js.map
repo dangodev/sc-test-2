@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./pages/Page3.js"],"names":["React","__webpack_require__","n","default","createElement"],"mappings":"0IAAA,IAAYA,0JAAZC,EAAA,IAAAC,EAAAC,QAEc,kBAAMH,EAAAI,cAAA","file":"0.abd516206086497c83e6.js","sourcesContent":["import * as React from \"react\";\n\nconst Page3 = () => <div>Page 3</div>;\n\nexport default Page3;\n"],"sourceRoot":""}
